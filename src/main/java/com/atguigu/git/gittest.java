@@ -10,6 +10,7 @@ public class gittest {
         System.out.println("hello git test hotfix");
         System.out.println("hello git test PUSH");
         System.out.println("online commit");
+        System.out.println("gitee commit");
         
     }
 }
